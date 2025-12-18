@@ -1,2 +1,4 @@
 i am updated under feature1 branch
 i am in main branch
+update on line 1 
+line2
